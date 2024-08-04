@@ -42,6 +42,7 @@ def register(req):
 
 def logout_user(req):
     logout(req)
+    return redirect('login')
 
 @login_required(login_url="register")
 def index(req):
