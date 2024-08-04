@@ -25,7 +25,7 @@ III. python3 -m venv venv
 
 
 
-IV. sours venv/bin/activate --- . venv/bin/activate
+IV. source venv/bin/activate --- . venv/bin/activate
 
 
 
