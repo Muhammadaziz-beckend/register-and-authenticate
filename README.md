@@ -1,4 +1,4 @@
-I. git clone --------------github.com
+I. git clone https://github.com/Muhammadaziz-beckend/register-and-authenticate.git
 
 
 
